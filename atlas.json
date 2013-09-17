@@ -9,9 +9,7 @@
     "pdf": {},
     "epub": {},
     "mobi": {},
-    "html": {
-      "toc": true
-    }
+    "html": {}
   },
   "theme": "",
   "title": "Track All The Things"
