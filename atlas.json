@@ -10,21 +10,9 @@
     "epub": {},
     "mobi": {},
     "html": {
-      "toc": true,
-      "javascripts": [
-        "assets/jquery.min.js",
-        "assets/bootstrap.min.js",
-        "assets/widget.js",
-        "assets/quiz.js"
-      ],
-      "stylesheets": [
-        "assets/bootstrap.min.css",
-        "assets/bootstrap-responsive.min.css",
-        "assets/application.css",
-        "assets/styles.css",
-        "assets/widget.css"
-      ]
+      "toc": true
     }
   },
+  "theme": "",
   "title": "Track All The Things"
 }
