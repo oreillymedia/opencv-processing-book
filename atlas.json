@@ -1,9 +1,6 @@
 {
   "files": [
-    "sample.md",
-    "book/tracking/brightest_point.md",
-    "book/tracking/hsv_color.md",
-    "book/tracking/background_subtraction.md"
+    "sample.md"
   ],
   "formats": {
     "pdf": {},
