@@ -1,9 +1,14 @@
-# Widget
+
+#### Widget
+
+<!-- COMMENT COMMENT COMMENT -->
 
 {% include 'widget_start' %}
+
 ![image 1](../../../code/facetracking/versions/image1.png)
+
 {% include 'widget_colbreak' %}
-<pre>
+
   import gab.opencv.*;
   import processing.video.*;
   import java.awt.*;
@@ -38,14 +43,18 @@
   void captureEvent(Capture c) {
     c.read();
   }
-</pre>
+
 {% include 'widget_colbreak' %}
+
 * Comments go here.
 * Another comment.
+
 {% include 'widget_slidebreak' %}
+
 ![image 2](../../../code/facetracking/versions/image2.png)
+
 {% include 'widget_colbreak' %}
-<pre>
+
   import gab.opencv.*;
   import processing.video.*;
   import java.awt.*;
@@ -80,14 +89,18 @@
   void captureEvent(Capture c) {
     c.read();
   }
-</pre>
+
 {% include 'widget_colbreak' %}
+
 * Comments go here.
 * Another comment.
+
 {% include 'widget_slidebreak' %}
+
 ![image 3](../../../code/facetracking/versions/image3.png)
+
 {% include 'widget_colbreak' %}
-<pre>
+
   import gab.opencv.*;
   import processing.video.*;
   import java.awt.*;
@@ -129,8 +142,10 @@
   void captureEvent(Capture c) {
     c.read();
   }
-</pre>
+
 {% include 'widget_colbreak' %}
+
 * Comments go here.
 * Another comment.
+
 {% include 'widget_end' %}
