@@ -78,11 +78,11 @@ Q: What is the minimum angle of orientation that will cause the frontal face cas
 
 #### Widget
 
-<!--START WIDGET-->
+{% include 'widget_start' %}
 
 ![image 1](../../../code/facetracking/versions/image1.png)
 
-<!--COLBREAK-->
+{% include 'widget_colbreak' %}
 
 	import gab.opencv.*;
 	import processing.video.*;
@@ -119,16 +119,16 @@ Q: What is the minimum angle of orientation that will cause the frontal face cas
 	  c.read();
 	}
 
-<!--COLBREAK-->
+{% include 'widget_colbreak' %}
 
 * Comments go here.
 * Another comment.
 
-<!--SLIDEBREAK-->
+{% include 'widget_slidebreak' %}
 
 ![image 2](../../../code/facetracking/versions/image2.png)
 
-<!--COLBREAK-->
+{% include 'widget_colbreak' %}
 
 	import gab.opencv.*;
 	import processing.video.*;
@@ -165,16 +165,16 @@ Q: What is the minimum angle of orientation that will cause the frontal face cas
 	  c.read();
 	}
 
-<!--COLBREAK-->
+{% include 'widget_colbreak' %}
 
 * Comments go here.
 * Another comment.
 
-<!--SLIDEBREAK-->
+{% include 'widget_slidebreak' %}
 
 ![image 3](../../../code/facetracking/versions/image3.png)
 
-<!--COLBREAK-->
+{% include 'widget_colbreak' %}
 
 	import gab.opencv.*;
 	import processing.video.*;
@@ -218,9 +218,9 @@ Q: What is the minimum angle of orientation that will cause the frontal face cas
 	  c.read();
 	}
 
-<!--COLBREAK-->
+{% include 'widget_colbreak' %}
 
 * Comments go here.
 * Another comment.
 
-<!--END WIDGET-->
+{% include 'widget_end' %}
