@@ -1,7 +1,7 @@
 {
   "files": [
+    "sample.md",
     "book/tracking/brightest_point.md",
-    "book/tracking/face_detection.md",
     "book/tracking/hsv_color.md",
     "book/tracking/background_subtraction.md"
   ],
