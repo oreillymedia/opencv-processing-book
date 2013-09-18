@@ -36,8 +36,7 @@
 
   void captureEvent(Capture c) {
     c.read();
-  }
-</pre>
+  }</pre>
 {% include 'widget_colbreak' %}
 * Comments go here.
 * Another comment.
@@ -78,8 +77,7 @@
   void captureEvent(Capture c) {
     c.read();
   }
-</pre>
-{% include 'widget_colbreak' %}
+</pre>{% include 'widget_colbreak' %}
 * Comments go here.
 * Another comment.
 {% include 'widget_slidebreak' %}
@@ -126,8 +124,7 @@
   void captureEvent(Capture c) {
     c.read();
   }
-</pre>
-{% include 'widget_colbreak' %}
+</pre>{% include 'widget_colbreak' %}
 * Comments go here.
 * Another comment.
 {% include 'widget_end' %}
