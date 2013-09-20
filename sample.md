@@ -41,8 +41,6 @@ Q: What qualities of our input image could cause problems with brightness tracki
 
 Q: Which are easier to track with this version of color tracking: bright red or dark red objects?
 
-{% include "answer" with "Light red. Dark red objects will converge with the shadows in the scene where R, G, and B components are all near 0." %}
-
 ### Code
 
 {{ 'code/brightness_tracking/BrightnessTracking/BrightnessTracking.pde' | load_source: 'java' }}
