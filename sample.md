@@ -41,6 +41,8 @@ Q: What qualities of our input image could cause problems with brightness tracki
 
 Q: Which are easier to track with this version of color tracking: bright red or dark red objects?
 
+{% include "answer" with "Light red." %}
+
 ### Code
 
 {{ 'code/brightness_tracking/BrightnessTracking/BrightnessTracking.pde' | load_source: 'java' }}
