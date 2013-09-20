@@ -47,17 +47,4 @@ hi
 
 ### Code
 
-{{ 'code/brightness_tracking/BrightnessTracking/BrightnessTracking.pde' | load_source: 'java' }}
-
-#### Important Functions
-
-* <code>opencv.max()</code> - Find the brightest point in the current gray image.
-* <code>opencv.setBufferGray()</code> - Set the current gray image to another channel.
-* <code>opencv.getBufferG()</code> - Get the green channel of the current image. Useful for passing to <code>opencv.setBufferGray()</code>.
-
-#### Browse the Code
-
-1. capture image and load it into opencv
-2. find and draw the max point
-3. Switch to Capture instead of a still image
-4. Use the green channel to track a green object
+hello
