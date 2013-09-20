@@ -43,6 +43,8 @@ Q: Which are easier to track with this version of color tracking: bright red or 
 
 {% include "answer" with "Light red." %}
 
+hi
+
 ### Code
 
 {{ 'code/brightness_tracking/BrightnessTracking/BrightnessTracking.pde' | load_source: 'java' }}
