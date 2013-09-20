@@ -37,6 +37,8 @@ In practice, the grayscale average of RGB is usually used due to its convenience
 
 Q: What qualities of our input image could cause problems with brightness tracking: A) The presence of many glowing objects. B) Moving shadows cast by passersby. C) The auto-exposure on our camera triggering. D) All of the above.
 
+{% include "answer" with "D, all of the above." %}
+
 
 ### Code
 
