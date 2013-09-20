@@ -1,8 +1,6 @@
 {
   "files": [
-    "book/tracking/brightest_point.md",
-    "book/tracking/hsv_color.md",
-    "book/tracking/background_subtraction.md"
+    "book/tracking/brightest_point.md"
   ],
   "formats": {
     "pdf": {},
