@@ -2,7 +2,17 @@
   "files": [
     "book/tracking/hsv_color.md",
     "book/tracking/background_subtraction.md",
-    "book/tracking/contours_and_lines.md"
+    "book/tracking/contours_and_lines.md",
+    "book/filters/adaptive_threshold.md",
+    "book/filters/basic_output.md",
+    "book/filters/blur.md",
+    "book/filters/brightness_contrast.md",
+    "book/filters/dilate_erode.md",
+    "book/filters/edge_detection.md",
+    "book/filters/equalize_histogram.md",
+    "book/filters/in_range.md",
+    "book/filters/region_of_interest.md",
+    "book/filters/threshold.md"
   ],
   "formats": {
     "pdf": {},
@@ -26,5 +36,6 @@
     }
   },
   "theme": "",
-  "title": "Getting Started with Computer Vision"
+  "title": "Getting Started with Computer Vision",
+  "template": "oreillymedia/atlas_trade_theme"
 }
