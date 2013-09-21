@@ -4,7 +4,7 @@
     "book/filters/adaptive_threshold.md",
     "book/filters/basic_output.md",
     "book/filters/blur.md",
-    "book/tracking/face_detection.md"
+    "book/tracking/contours_and_lines.md"
   ],
   "formats": {
     "pdf": {},
