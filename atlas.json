@@ -1,7 +1,5 @@
 {
   "files": [
-    "book/tracking/brightest_point.md",
-    "book/tracking/face_detection.md",
     "book/tracking/hsv_color.md",
     "book/tracking/background_subtraction.md",
     "book/tracking/contours_and_lines.md"
@@ -27,6 +25,6 @@
       ]
     }
   },
-  "theme": "oreillymedia/atlas_tech1c_theme",
+  "theme": "",
   "title": "Getting Started with Computer Vision"
 }
