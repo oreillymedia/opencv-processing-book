@@ -1,7 +1,6 @@
 {
   "files": [
-    "book/index.html",
-    "book/tracking/brightest_point.md"
+    "book/index.html"
   ],
   "formats": {
     "pdf": {},
