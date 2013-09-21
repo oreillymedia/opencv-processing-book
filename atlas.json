@@ -1,7 +1,6 @@
 {
   "files": [
-    "book/index.html",
-    "book/filters/adaptive_threshold.md"
+    "book/index.html"
   ],
   "formats": {
     "pdf": {},
