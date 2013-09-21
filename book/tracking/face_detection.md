@@ -4,7 +4,7 @@
 
 _Detecting faces in images is one of the most ubiquitous applications of computer vision. We see it in our digital cameras for autofocus, on our social networks to identify our friends, in public surveillance systems, and many other places. In this project, we'll learn how to detect faces using OpenCV. We'll see a little bit about how the face detection process works, how it can fail, and how we can apply it to detect other things besides just faces._
 
-<iframe src="http://player.vimeo.com/video/69907695" width="1000" height="562" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+<iframe src="http://player.vimeo.com/video/69907695" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 
 _Video and images from Adam Harvey's [CV Dazzle](http://cvdazzle.com) used with permission. Clock photo by [jaqian](http://www.flickr.com/photos/jaqian/7292320/) and pedestrian photo by [gandalphcunningham](http://www.flickr.com/photos/gandalfcunningham/2527870434/)._
 
