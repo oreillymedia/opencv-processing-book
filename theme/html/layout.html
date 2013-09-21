@@ -1,8 +1,13 @@
-<p>{{ doctype }}</p>
-<meta charset="utf-8" />
-<title></title>
-<p>{{ header }}</p>
-
-<div id="container">
-{{ content }}
-</div>
+{{ doctype }}
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta charset="utf-8" />
+    <title>{{ title }}</title>
+    {{ header }}
+  </head>
+  <body data-type="book">
+  <div id="container">
+    {{ content }}
+  </div>
+  </body>
+</html>
