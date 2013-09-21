@@ -1,9 +1,6 @@
 {
   "files": [
     "book/index.html",
-    "book/tracking/hsv_color.md",
-    "book/tracking/background_subtraction.md",
-    "book/tracking/contours_and_lines.md",
     "book/filters/adaptive_threshold.md",
     "book/filters/basic_output.md",
     "book/filters/blur.md",
