@@ -55,6 +55,27 @@
   background-color: #ac2f3c;
 }
 
+ul.navigation {
+	list-style-type: none;
+	color: #2c7db1;
+	margin-top: 50px;
+	padding-bottom: 30px;
+	margin-left: 0;
+}
+
+ul.navigation a {
+	color: #2c7db1;
+	text-decoration: none;
+}
+
+.navigation li.prev {
+  float: left;
+}
+
+.navigation li.next {
+  float: right;
+}
+
 img.cover {
 	width: 100%;
 }
