@@ -7,7 +7,7 @@ _Detecting faces in images is one of the most ubiquitous applications of compute
 <iframe src="http://player.vimeo.com/video/69907695" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 
 _Video and images from Adam Harvey's [CV Dazzle](http://cvdazzle.com) used with permission. Clock photo by [jaqian](http://www.flickr.com/photos/jaqian/7292320/) and pedestrian photo by [gandalphcunningham](http://www.flickr.com/photos/gandalfcunningham/2527870434/)._
-
+!
 ### Video Summary
 
 * Face detection in OpenCV is easy to use.
@@ -45,7 +45,7 @@ In addition to the fear of being observed by face detection systems, there's a d
 
 In 2009, two employees of a computer store uploaded a video called [HP Computers are Racist](http://www.youtube.com/watch?v=t4DT3tQqgRM) in which they demonstrated an HP MediaSmart computer failing to track the face of a black man, but succeeding on a white woman.
 
-<iframe width="420" height="315" src="//www.youtube.com/embed/t4DT3tQqgRM" frameborder="0" allowfullscreen></iframe>
+<iframe width="420" height="315" src="http://www.youtube.com/embed/t4DT3tQqgRM" frameborder="0" allowfullscreen></iframe>
 
 [HP responded](http://www.pcmag.com/article2/0,2817,2357429,00.asp) to the video by explaining the technical roots of the problem and insisting it wasn't intentional:
 
