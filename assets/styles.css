@@ -12,6 +12,10 @@
 	padding-top: 0;
 }
 
+.centered {
+	text-align: center;
+}
+
 .navbar-inner {
   background-color: #ac2f3c;
   background-image: none;
@@ -151,3 +155,7 @@ h1 {
 		margin-left: 0;
 		text-indent: 0;
 	}
+
+	.splash section[data-type="sect2"] {
+	margin-top: 50px;
+}
