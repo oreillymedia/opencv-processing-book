@@ -82,7 +82,7 @@ Q: What is the minimum angle of orientation that will cause the frontal face cas
 
 {% include 'widget_start' %}
 
-![image 1](../../../code/facetracking/versions/image1.png)
+![image 1](code/facetracking/versions/image1.png)
 
 {% include 'widget_colbreak' %}
 
@@ -128,7 +128,7 @@ Q: What is the minimum angle of orientation that will cause the frontal face cas
 
 {% include 'widget_slidebreak' %}
 
-![image 2](../../../code/facetracking/versions/image2.png)
+![image 2](code/facetracking/versions/image2.png)
 
 {% include 'widget_colbreak' %}
 
@@ -174,7 +174,7 @@ Q: What is the minimum angle of orientation that will cause the frontal face cas
 
 {% include 'widget_slidebreak' %}
 
-![image 3](../../../code/facetracking/versions/image3.png)
+![image 3](code/facetracking/versions/image3.png)
 
 {% include 'widget_colbreak' %}
 
