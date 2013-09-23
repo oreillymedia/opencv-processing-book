@@ -1,6 +1,7 @@
 {
   "files": [
-    "book/index.html"
+    "book/tracking/brightest_point.md",
+    "book/tracking/face_detection.md"
   ],
   "formats": {
     "pdf": {},
