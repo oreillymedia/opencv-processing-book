@@ -3,7 +3,8 @@
     "book/tracking/brightest_point.md",
     "book/tracking/hsv_color.md",
     "book/tracking/background_subtraction.md",
-    "book/tracking/contours_and_lines.md"
+    "book/tracking/contours_and_lines.md",
+    "book/tracking/face_detection.md"
   ],
   "formats": {
     "pdf": {},
