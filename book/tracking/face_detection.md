@@ -54,13 +54,12 @@ In 2009, two employees of a computer store uploaded a video called [HP Computers
 ### Quiz
 
 Q: Which of the following conditions will not make OpenCV face detection run faster: A) A smaller input image. B) Fewer faces present in the image. C) Good lighting.
-{% include "answer" with "C, good lighting." %}
 
 Q: Is it easier to detect objects with a cascade or to train a new cascade?
-{% include "answer" with "Detect. Training is difficult and computationally expensive." %}
+
 
 Q: What is the minimum angle of orientation that will cause the frontal face cascade to fail to detect the face?
-{% include "answer" with "15 degrees." %}
+
 
 ### Code
 
