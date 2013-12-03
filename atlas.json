@@ -12,9 +12,20 @@
     "book/filters/threshold.md"
   ],
   "formats": {
-    "pdf": {},
-    "epub": {},
-    "mobi": {},
+    "pdf": {
+      "version": "print",
+      "index": false,
+      "toc": false
+    },
+    "epub": {
+      "index": false,
+      "toc": false,
+      "epubcheck": false
+    },
+    "mobi": {
+      "index": false,
+      "toc": false
+    },
     "html": {
       "toc": true,
       "javascripts": [
@@ -29,7 +40,8 @@
         "assets/application.css",
         "assets/styles.css",
         "assets/widget.css"
-      ]
+      ],
+      "index": false
     }
   },
   "theme": "oreillymedia/atlas_tech1c_theme",
