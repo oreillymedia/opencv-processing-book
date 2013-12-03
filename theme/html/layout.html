@@ -1,31 +1,21 @@
-{{ doctype }}
-<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
-  <head>
-    <meta charset="utf-8" />
-    <title>{{ title }}</title>
-    {{ header }}
-    <link href="http://vjs.zencdn.net/4.1/video-js.css" rel="stylesheet" />
-    <script src="http://vjs.zencdn.net/4.1/video.js"></script>
-  </head>
-  <body data-type="book">
-
-  	<div class="navbar navbar-fixed-top">
-  	<div class="navbar-inner">
-  		<a class="brand" href="http://oreilly.com" target="_blank"><img src="assets/images/logo-white.png" /></a>
-    <ul class="nav pull-right">
-    	<li class="navbar-text">{{ title }}</li>
-      <li class="divider-vertical">{{ toc_link }}</li>
-    </ul>
+<p>{{ doctype }}</p>
+<meta charset="utf-8" />
+<title></title>
+<p>{{ header }}</p>
+<link href="http://vjs.zencdn.net/4.1/video-js.css" rel="stylesheet" /><script src="http://vjs.zencdn.net/4.1/video.js"></script>
+<div class="navbar navbar-fixed-top">
+<div class="navbar-inner"><a class="brand" data-original-title="" href="http://oreilly.com" target="_blank" title=""><img src="assets/images/logo-white.png" /></a>
+<ul class="nav pull-right">
+	<li><a data-original-title="" href="https://github.com/atduskgreg/opencv-processing-book" title="">Fork me on Github</a></li>
+	<li class="navbar-text">{{ title }}</li>
+	<li class="divider-vertical">{{ toc_link }}</li>
+</ul>
 </div>
-  </div>
+</div>
 
-  <div id="container" class="row-fluid">
-    {{ content }}
-
-    <ul class="navigation">
-      <li class="prev">&#8249; {{prev_link}}</li>
-      <li class="next">{{next_link}} &#8250;</li>
-    </ul>
-  </div>
-  </body>
-</html>
+<div class="row-fluid" id="container">{{ content }}
+<ul class="navigation">
+	<li class="prev">&lsaquo; {{prev_link}}</li>
+	<li class="next">{{next_link}} &rsaquo;</li>
+</ul>
+</div>
